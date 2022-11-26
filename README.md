@@ -1,2 +1,3 @@
 Prueba de Pipeline para my-app
-test
+test01
+test02
